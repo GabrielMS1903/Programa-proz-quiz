@@ -11,7 +11,7 @@ quiz = {'historia': [{'Em que ano a segunda guerra mundial acabou?': 1945, 'A ON
 #Como chamamos as respostas ou perguntas isoladas?
 
 
-#for materia, questao in quiz.items():  materia esta recebendo as materias dando abertura para oq esta dentro da nateria
+#for materia, questao in quiz.items():  materia esta recebendo as materias dando abertura para oq esta dentro do quiz
     #print()
     #for todas in questao[0].items(): #todas esta percorrendo em questao acima que esta com os submodulos
       #pergunta, resposta = todas  #pergunta esta caindo no primeiro item dos submodulos e a resposta na segunda que recebem o valor de todas que estava percorrendo todos os items da questao
